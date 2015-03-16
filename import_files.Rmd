@@ -6,7 +6,7 @@ output: html_document
 
 ## setwd and define the vector of fileames
 ```{r}
-#setwd("/home/max/Documenti/stat_r_test/import_files")
+#setwd("/some_dir/import_files")
 
 filenames <- list.files(pattern=".csv")
 ```

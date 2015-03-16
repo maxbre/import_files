@@ -1,5 +1,5 @@
 #set wd
-#setwd("/home/max/Documenti/stat_r_test/import_files")
+#setwd("/some_dir/import_files")
 
 #define a vector of filenames
 filenames <- list.files(pattern=".csv")

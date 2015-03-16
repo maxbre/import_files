@@ -1,10 +1,10 @@
 # my little reminder how to import txt files 
 ### (this bare bone example is dealing with *.csv but almost the same apply for other text file types)
-****
+
 ## setwd and define the vector of fileames
 
 ```r
-setwd("/home/max/Documenti/stat_r_test/import_files")
+#setwd("/some_dir/import_files")
 
 filenames <- list.files(pattern = ".csv")
 ```

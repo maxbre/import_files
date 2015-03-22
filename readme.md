@@ -1,1 +1,3 @@
-# my little reminder how to import text files into R
+# my little reminder...
+***
+# ...how to import text files into R

@@ -1,10 +1,11 @@
----
-output: html_document
----
-# my little reminder how to import txt files 
+# my little reminder...
+***
+# ...how to import text files into R
+***
+
 ### (this bare bone example is dealing with *.csv but almost the same apply for other text file types)
 
-## setwd and define the vector of fileames
+## setwd and define the vector of filenames
 ```{r}
 #setwd("/some_dir/import_files")
 
